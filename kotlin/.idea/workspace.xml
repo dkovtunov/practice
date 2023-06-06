@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f9b56b4-c50b-4f93-b5b3-745acdc5bf06" name="Changes" comment="corner rectangles">
-      <change afterPath="$PROJECT_DIR$/js/prevPositive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/types.d.ts " afterDir="false" />
+    <list default="true" id="2f9b56b4-c50b-4f93-b5b3-745acdc5bf06" name="Changes" comment="restructure repo">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/Bloom.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +16,7 @@
     <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,6 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/dmytro/projects/practice/kotlin",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685560078868</updated>
       <workItem from="1685560079920" duration="6599000" />
+      <workItem from="1686060175050" duration="105000" />
     </task>
     <task id="LOCAL-00001" summary="misc">
       <created>1685827093402</created>
@@ -76,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685827494208</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="restructure repo">
+      <created>1686060253989</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686060253989</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,7 +92,8 @@
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <MESSAGE value="misc" />
     <MESSAGE value="corner rectangles" />
-    <option name="LAST_COMMIT_MESSAGE" value="corner rectangles" />
+    <MESSAGE value="restructure repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="restructure repo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
