@@ -16,6 +16,7 @@ export function solution(nums: number[]): number {
   })
 
   const keys = Array.from(masks.keys())
+  keys.sort()
 
   if (keys[0] != 0) return 1
 
